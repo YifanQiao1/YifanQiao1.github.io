@@ -7,10 +7,10 @@
 ### Site Settings ###
 title               : IS445 Jekyll Template 
 description         : >-
-                      I am definitely not a corgi!
+                      I am who I am!
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          :                     # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
+repository          :    YifanQiao1                 # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -34,13 +34,13 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
+  name              : Yifan Qiao
   image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : yifanq7@illinois.edu
 #  facebook          : your_username
-  github            : jnaiman # JPN
+  github            : YifanQiao1 # JPN
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
